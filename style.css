@@ -217,7 +217,7 @@ body{
     background: #0e0e0e;
     height: 100%;
     place-items: center;
-    margin: 0 auto;
+    
 }
 main{
     background: url(images/bg-mobile.png) no-repeat;
@@ -236,7 +236,7 @@ main{
 .main_con{
     display: grid;
     place-items: center;
-    margin: 0 auto;
+    
     background: none;
 }
 
